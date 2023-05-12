@@ -1,4 +1,4 @@
-# Hazelcast Bundle Template
+# Mosquitto/MQTT Bundle Template
 
 [Enter your header description here. Try to limit to two (2) lines. Delete this line.]
 
